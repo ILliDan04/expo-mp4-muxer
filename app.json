@@ -1,0 +1,9 @@
+{
+  "android": {
+    "package": "com.anonymous.expomp4muxer"
+  },
+  "ios": {
+    "bundleIdentifier": "com.anonymous.expomp4muxer"
+  },
+  "plugins": [["expo-build-properties", { "android": { "minSdkVersion": 26 } }]]
+}

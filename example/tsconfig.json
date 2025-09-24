@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "expo-mp4-muxer": ["../src/index"],
+      "expo-mp4-muxer/*": ["../src/*"]
+    }
+  }
+}

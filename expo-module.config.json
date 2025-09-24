@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android", "web"],
+  "apple": {
+    "modules": ["ExpoMp4MuxerModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.mp4muxer.ExpoMp4MuxerModule"]
+  }
+}
